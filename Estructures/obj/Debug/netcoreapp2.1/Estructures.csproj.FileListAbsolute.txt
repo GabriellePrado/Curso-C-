@@ -1,0 +1,11 @@
+C:\Users\Gabrielle Prado\Desktop\resource\c#\Estructures\Estructures\bin\Debug\netcoreapp2.1\Estructures.deps.json
+C:\Users\Gabrielle Prado\Desktop\resource\c#\Estructures\Estructures\bin\Debug\netcoreapp2.1\Estructures.runtimeconfig.json
+C:\Users\Gabrielle Prado\Desktop\resource\c#\Estructures\Estructures\bin\Debug\netcoreapp2.1\Estructures.runtimeconfig.dev.json
+C:\Users\Gabrielle Prado\Desktop\resource\c#\Estructures\Estructures\bin\Debug\netcoreapp2.1\Estructures.dll
+C:\Users\Gabrielle Prado\Desktop\resource\c#\Estructures\Estructures\bin\Debug\netcoreapp2.1\Estructures.pdb
+C:\Users\Gabrielle Prado\Desktop\resource\c#\Estructures\Estructures\obj\Debug\netcoreapp2.1\Estructures.csprojAssemblyReference.cache
+C:\Users\Gabrielle Prado\Desktop\resource\c#\Estructures\Estructures\obj\Debug\netcoreapp2.1\Estructures.csproj.CoreCompileInputs.cache
+C:\Users\Gabrielle Prado\Desktop\resource\c#\Estructures\Estructures\obj\Debug\netcoreapp2.1\Estructures.AssemblyInfoInputs.cache
+C:\Users\Gabrielle Prado\Desktop\resource\c#\Estructures\Estructures\obj\Debug\netcoreapp2.1\Estructures.AssemblyInfo.cs
+C:\Users\Gabrielle Prado\Desktop\resource\c#\Estructures\Estructures\obj\Debug\netcoreapp2.1\Estructures.dll
+C:\Users\Gabrielle Prado\Desktop\resource\c#\Estructures\Estructures\obj\Debug\netcoreapp2.1\Estructures.pdb
