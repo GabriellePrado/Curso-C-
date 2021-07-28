@@ -13,7 +13,7 @@ namespace Estructures {
                     Console.WriteLine("Mas pizza é caro !");
                     break;
                 case 2:
-                    Console.WriteLine("Mas chocolate da espinhas !");
+                    Console.WriteLine("Mas chocolate engorda !");
                     break;
                 default:
                     Console.WriteLine(" Invalido !");
